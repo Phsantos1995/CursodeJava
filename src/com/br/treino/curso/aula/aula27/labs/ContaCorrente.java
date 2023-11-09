@@ -1,2 +1,4 @@
-package com.br.treino.curso.aula.aula27.labs;public class ContaCorrente {
+package com.br.treino.curso.aula.aula27.labs;
+
+public class ContaCorrente {
 }

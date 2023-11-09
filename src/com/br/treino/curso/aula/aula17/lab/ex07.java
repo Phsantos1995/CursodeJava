@@ -1,2 +1,4 @@
-package com.br.treino.curso.aula.aula17.lab;public class ex07 {
+package com.br.treino.curso.aula.aula17.lab;
+
+public class ex07 {
 }
